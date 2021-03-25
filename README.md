@@ -22,6 +22,7 @@ Father of 3 dogs, husband and DevOps team manager.
 
 <img align="left" alt="GCP" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/googlecloud.svg"/>
 <img align="left" alt="Azure Cloud" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/microsoftazure.svg"/>
+<img align="left" alt="Rancher" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/rancher.svg"/>
 <img align="left" alt="Java" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/java.svg"/>
 <img align="left" alt="Docker" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/docker.svg" />
 <img align="left" alt="Kubernetes" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/kubernetes.svg">
