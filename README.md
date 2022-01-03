@@ -6,7 +6,7 @@ Father of 3 dogs, husband and DevOps team manager.
 
 - :earth_americas: From Santana do Seridó - RN to João Pessoa - PB
 - :books: Graduated in Network Computer
-- :office: Currently working at [Conductor Tecnologia](https://conductor.com.br)
+- :office: Currently working at [thoughtworks](https://www.thoughtworks.com)
 - :beer: Beer lover 
 - :video_game: Game lover
 
