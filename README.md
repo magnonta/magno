@@ -6,7 +6,7 @@ Father of John and others 3 dogs, husband and Platform Consultant Lead.
 
 - :earth_americas: From Santana do Seridó - RN to João Pessoa - PB
 - :books: Graduated in Network Computer
-- :office: Currently working at [thoughtworks](https://www.thoughtworks.com)
+- :office: Working at [thoughtworks](https://www.thoughtworks.com)
 - :beer: Beer lover 
 - :video_game: Game lover
 
