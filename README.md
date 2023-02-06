@@ -1,6 +1,6 @@
 ## Hi, I'm Magno Oliveira!
 
-Father of John and others 3 dogs, husband and Platform Consultant Lead.
+Father of JM and others 3 dogs, husband and Platform Consultant Lead.
 
 ### About me:
 
