@@ -6,7 +6,7 @@ Father of JM and others 3 dogs, husband and Platform Consultant Lead.
 
 - :earth_americas: From Santana do Seridó - RN to João Pessoa - PB
 - :books: Graduated in Network Computer
-- :office: Working at [thoughtworks](https://www.thoughtworks.com)
+- :office: Working at [Lemongrass]([https://lemongrasscloud.com](/))
 - :beer: Beer lover 
 - :video_game: Game lover
 
